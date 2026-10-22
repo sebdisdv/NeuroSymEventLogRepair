@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#data folder
+/data/datasets/graphs_repair
+/trained_model
+/results

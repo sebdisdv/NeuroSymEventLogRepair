@@ -1,0 +1,173 @@
+{
+    "BPI_Challenge_2013_open_problems": {
+        "categorical": [
+            "org:group",
+            "resource country",
+            "org:resource",
+            "oranization country",
+            "org:role",
+            "Activity",
+            "impact",
+            "product",
+            "org:resource:role"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    },
+    "sp2020": {
+        "categorical": [
+            "Activity",
+            "REPAIR_IN_TIME_5D",
+            "DEVICETYPE",
+            "org:resource"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    },
+    "Helpdesk": {
+        "categorical": [
+            "Activity"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    },
+    "BPI20_RequestForPayment": {
+        "categorical": [
+            "org:resource",
+            "Activity",
+            "org:role",
+            "case:Project",
+            "case:Task",
+            "case:OrganizationalEntity",
+            "case:Cost Type",
+            "case:Activity",
+            "case:RfpNumber",
+            "org:resource:role"
+        ],
+        "numerical": [
+            "time:timestamp",
+            "case:RequestedAmount"
+        ]
+    },
+    "BPI Challenge 2017 - Offer log": {
+        "categorical": [
+            "Action",
+            "org:resource",
+            "Activity",
+            "EventOrigin",
+            "lifecycle:transition",
+            "case:Selected",
+            "case:Accepted",
+            "org:resource:role"
+        ],
+        "numerical": [
+            "time:timestamp",
+            "case:MonthlyCost",
+            "case:FirstWithdrawalAmount",
+            "case:CreditScore",
+            "case:OfferedAmount",
+            "case:NumberOfTerms"
+        ]
+    },
+    "BPI_Challenge_2012_W_Complete": {
+        "categorical": [
+            "org:resource",
+            "Activity",
+            "org:resource:role"
+        ],
+        "numerical": [
+            "time:timestamp",
+            "case:AMOUNT_REQ",
+            "case:REG_DATE"
+        ]
+    },
+    "BPI_Challenge_2012_A": {
+        "categorical": [
+            "org:resource",
+            "Activity",
+            "org:resource:role"
+        ],
+        "numerical": [
+            "time:timestamp",
+            "case:AMOUNT_REQ",
+            "case:REG_DATE"
+        ]
+    },
+    "bpi_2012_CZ": {
+        "categorical": [
+            "Activity",
+            "org:resource",
+            "concept:name",
+            "lifecycle:transition"
+        ],
+        "numerical": [
+            "time:timestamp",
+            "(case) AMOUNT_REQ"
+        ]
+    },
+    "bpi_2013_CZ": {
+        "categorical": [
+            "Activity",
+            "org:resource",
+            "impact",
+            "concept:name",
+            "lifecycle:transition",
+            "org:group",
+            "org:role",
+            "organization country",
+            "organization involved",
+            "product",
+            "resource country"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    },
+    "large_log_CZ": {
+        "categorical": [
+            "Activity"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    },
+    "small_log_CZ": {
+        "categorical": [
+            "Activity"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    }
+    ,
+    "sp2020_CZ": {
+        "categorical": [
+            "Activity",
+            "REPAIR_IN_TIME_5D",
+            "DEVICETYPE",
+            "org:resource"
+        ],
+        "numerical": [
+            "time:timestamp"
+        ]
+    },
+    "BPI20_RequestForPayment_CZ":{
+        "categorical": [
+            "org:resource",
+            "Activity",
+            "org:role",
+            "case:Project",
+            "case:Task",
+            "case:OrganizationalEntity",
+            "case:Activity",
+            "case:RfpNumber"
+        ],
+        "numerical": [
+            "time:timestamp",
+            "case:RequestedAmount"
+        ]
+    }
+}
