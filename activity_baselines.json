@@ -1,0 +1,92 @@
+{
+  "ATTR": {
+    "AE": {
+      "Small Log": 67.18,
+      "Large Log": 79.31,
+      "BPI12": 29.9,
+      "BPI13": 71.48,
+      "SP2020": 44.81,
+      "BPI20RFP": 91.9
+    },
+    "SANA (AT)": {
+      "Small Log": 78.85,
+      "Large Log": 84.13,
+      "BPI12": 78.73,
+      "BPI13": 63.05,
+      "SP2020": 60.02,
+      "BPI20RFP": 90.97
+    }
+  },
+  "ODD": {
+    "AE": {
+      "Small Log": 19.48,
+      "Large Log": 37.29,
+      "BPI12": 17.12,
+      "BPI13": 64.65,
+      "SP2020": 35.22,
+      "BPI20RFP": 56.94
+    },
+    "SANA (AT)": {
+      "Small Log": 93.84,
+      "Large Log": 83.32,
+      "BPI12": 95.39,
+      "BPI13": 70.41,
+      "SP2020": 72.91,
+      "BPI20RFP": 98.63
+    }
+  },
+  "EVEN": {
+    "AE": {
+      "Small Log": 11.53,
+      "Large Log": 25,
+      "BPI12": 16.07,
+      "BPI13": 34.15,
+      "SP2020": 29.46,
+      "BPI20RFP": 61.63
+    },
+    "SANA (AT)": {
+      "Small Log": 94.41,
+      "Large Log": 100,
+      "BPI12": 92.46,
+      "BPI13": 68.79,
+      "SP2020": 81.9,
+      "BPI20RFP": 97.19
+    }
+  },
+  "WIND": {
+    "AE": {
+      "Small Log": 16.76,
+      "Large Log": 29.83,
+      "BPI12": 20.05,
+      "BPI13": 66.18,
+      "SP2020": 27.75,
+      "BPI20RFP": 51.14
+    },
+    "SANA (AT)": {
+      "Small Log": 82.69,
+      "Large Log": 66.62,
+      "BPI12": 88.57,
+      "BPI13": 70.96,
+      "SP2020": 66.84,
+      "BPI20RFP": 98.76
+    }
+  },
+  "RAND": {
+    "AE": {
+      "Small Log": 66.44,
+      "Large Log": 79.12,
+      "BPI12": 28.96,
+      "BPI13": 76.01,
+      "SP2020": 47.48,
+      "BPI20RFP": 91.3
+    },
+    "SANA (AT)": {
+      "Small Log": 79,
+      "Large Log": 82.88,
+      "BPI12": 78.42,
+      "BPI13": 65.82,
+      "SP2020": 59.89,
+      "BPI20RFP": 91.61
+    }
+  }
+}

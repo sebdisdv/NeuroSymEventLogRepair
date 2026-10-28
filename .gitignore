@@ -223,3 +223,7 @@ __marimo__/
 /data/datasets/graphs_repair
 /trained_model
 /results
+/trained_model_complex
+/plots
+/LogicLayer_inference_only/results
+/LogicLayer_inference_only/trained_model
